@@ -1,0 +1,12 @@
+body {
+    font-size: 1em;
+}
+h1 {
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    color: green;
+    font-size: 4em;
+    border:solid black 20px;
+    
+}
